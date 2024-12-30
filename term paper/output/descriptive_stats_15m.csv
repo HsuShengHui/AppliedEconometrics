@@ -1,0 +1,5 @@
+accident_count_mean,accident_count_sd,injury_count_mean,injury_count_sd,carNumberPer_mean,carNumberPer_sd,motorcycleNumberPer_mean,motorcycleNumberPer_sd,TemperatureAverage_mean,TemperatureAverage_sd,RainDay_mean,RainDay_sd,group
+0.54,0.9763,0.81,1.7368,468.39,221.89,447.82,181.16,24.66,4.76,11.53,3.90,NA
+0.35,0.6618,0.50,1.0185,469.69,206.08,420.20,195.31,24.66,4.76,11.53,3.90,control
+0.77,1.2157,1.19,2.2657,466.84,239.77,480.97,156.51,24.66,4.76,11.53,3.90,treatment
+,,,,,,,,,,,,
